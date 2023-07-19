@@ -1,0 +1,15 @@
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\bin\Debug\net7.0\parking (sistema de estacionamento).exe
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\bin\Debug\net7.0\parking (sistema de estacionamento).deps.json
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\bin\Debug\net7.0\parking (sistema de estacionamento).runtimeconfig.json
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\bin\Debug\net7.0\parking (sistema de estacionamento).dll
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\bin\Debug\net7.0\parking (sistema de estacionamento).pdb
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).csproj.AssemblyReference.cache
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).AssemblyInfoInputs.cache
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).AssemblyInfo.cs
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).csproj.CoreCompileInputs.cache
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).dll
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\refint\parking (sistema de estacionamento).dll
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).pdb
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\parking (sistema de estacionamento).genruntimeconfig.cache
+C:\Users\Zew-Developer\Desktop\C#\parking (sistema de estacionamento)\parking (sistema de estacionamento)\obj\Debug\net7.0\ref\parking (sistema de estacionamento).dll
